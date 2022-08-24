@@ -26,5 +26,6 @@ bin/
 .vscode/
 .idea
 Work1.iml
+out
 ### Mac OS ###
 .DS_Store
